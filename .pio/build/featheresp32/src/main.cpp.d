@@ -108,7 +108,6 @@
  C:/Users/USER/.platformio/packages/framework-arduinoespressif32/cores/esp32/WString.h \
  C:/Users/USER/.platformio/packages/framework-arduinoespressif32/cores/esp32/pgmspace.h \
  C:/Users/USER/.platformio/packages/framework-arduinoespressif32/cores/esp32/Printable.h \
- .pio/libdeps/featheresp32/Adafruit\ GFX\ Library/Adafruit_GFX.h \
  C:/Users/USER/.platformio/packages/framework-arduinoespressif32/cores/esp32/Arduino.h \
  C:/Users/USER/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp_arduino_version.h \
  C:/Users/USER/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp8266-compat.h \
@@ -136,6 +135,7 @@
  C:/Users/USER/.platformio/packages/framework-arduinoespressif32/tools/sdk/esp32/include/esp_hw_support/include/soc/esp32/spiram.h \
  C:/Users/USER/.platformio/packages/framework-arduinoespressif32/cores/esp32/io_pin_remap.h \
  C:/Users/USER/.platformio/packages/framework-arduinoespressif32/cores/esp32/Arduino.h \
+ .pio/libdeps/featheresp32/Adafruit\ GFX\ Library/Adafruit_GFX.h \
  C:/Users/USER/.platformio/packages/framework-arduinoespressif32/cores/esp32/Print.h \
  .pio/libdeps/featheresp32/Adafruit\ GFX\ Library/gfxfont.h \
  .pio/libdeps/featheresp32/Adafruit\ BusIO/Adafruit_I2CDevice.h \
