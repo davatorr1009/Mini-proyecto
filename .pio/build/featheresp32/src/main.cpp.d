@@ -142,4 +142,7 @@
  .pio/libdeps/featheresp32/Adafruit\ BusIO/Adafruit_SPIDevice.h \
  C:/Users/USER/.platformio/packages/framework-arduinoespressif32/libraries/SPI/src/SPI.h \
  C:/Users/USER/.platformio/packages/framework-arduinoespressif32/cores/esp32/esp32-hal-spi.h \
- .pio/libdeps/featheresp32/Adafruit\ SSD1306/Adafruit_SSD1306.h
+ .pio/libdeps/featheresp32/Adafruit\ SSD1306/Adafruit_SSD1306.h \
+ .pio/libdeps/featheresp32/MD_MAX72XX/src/MD_MAX72xx.h \
+ .pio/libdeps/featheresp32/DFRobotDFPlayerMini/DFRobotDFPlayerMini.h \
+ C:/Users/USER/.platformio/packages/framework-arduinoespressif32/cores/esp32/HardwareSerial.h

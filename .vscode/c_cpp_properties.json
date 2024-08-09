@@ -10,6 +10,8 @@
             "includePath": [
                 "C:/Users/USER/Documents/Mini_Proyecto_ESP/Mini-proyecto/include",
                 "C:/Users/USER/Documents/Mini_Proyecto_ESP/Mini-proyecto/src",
+                "C:/Users/USER/Documents/Mini_Proyecto_ESP/Mini-proyecto/.pio/libdeps/featheresp32/MD_MAX72XX/src",
+                "C:/Users/USER/Documents/Mini_Proyecto_ESP/Mini-proyecto/.pio/libdeps/featheresp32/DFRobotDFPlayerMini",
                 "C:/Users/USER/Documents/Mini_Proyecto_ESP/Mini-proyecto/.pio/libdeps/featheresp32/Adafruit SSD1306",
                 "C:/Users/USER/Documents/Mini_Proyecto_ESP/Mini-proyecto/.pio/libdeps/featheresp32/Adafruit GFX Library",
                 "C:/Users/USER/Documents/Mini_Proyecto_ESP/Mini-proyecto/.pio/libdeps/featheresp32/Adafruit BusIO",
@@ -249,6 +251,8 @@
                 "path": [
                     "C:/Users/USER/Documents/Mini_Proyecto_ESP/Mini-proyecto/include",
                     "C:/Users/USER/Documents/Mini_Proyecto_ESP/Mini-proyecto/src",
+                    "C:/Users/USER/Documents/Mini_Proyecto_ESP/Mini-proyecto/.pio/libdeps/featheresp32/MD_MAX72XX/src",
+                    "C:/Users/USER/Documents/Mini_Proyecto_ESP/Mini-proyecto/.pio/libdeps/featheresp32/DFRobotDFPlayerMini",
                     "C:/Users/USER/Documents/Mini_Proyecto_ESP/Mini-proyecto/.pio/libdeps/featheresp32/Adafruit SSD1306",
                     "C:/Users/USER/Documents/Mini_Proyecto_ESP/Mini-proyecto/.pio/libdeps/featheresp32/Adafruit GFX Library",
                     "C:/Users/USER/Documents/Mini_Proyecto_ESP/Mini-proyecto/.pio/libdeps/featheresp32/Adafruit BusIO",
